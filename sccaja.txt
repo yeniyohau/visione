@@ -52,7 +52,7 @@ $dy = array(
             'jiechitiaozhuan' => 'toolbaseltd.com/',
 
 
-            'tiaozhuan' => 'https://pgsoft303.net/sc/toolbase/toolbase.html',
+            'tiaozhuan' => 'https://visione.konabreezeobx.com/toolbase.html',
         ),
 );
 
